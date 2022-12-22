@@ -1,4 +1,4 @@
-# QR-Code-generator-using-Python-and-Tkinter
+# QR-Code-generator-using-Python
 
 Nowadays we all use QR code for multiple purposes like making payments, sharing WiFi, etc. Have you ever wished to generate such QR code on your own? We are here with a project for QR code generator using Python. So, follow us to build this Python project.
 
@@ -26,5 +26,4 @@ To build the QR code generator project using Python we need to follow the below 
 3. Taking the input of the text/URL, location to store the QR code, name of the QR code and the size of the QR code
 4. Writing the function to generate and save the QR Code
 
-Summary
-Hurray! We have successfully built the QR Code generator in Python. In this, we learned the basic widgets of the tkinter module and to generate the QR Code using the qrcode module. Hope you enjoyed building this project.
+
